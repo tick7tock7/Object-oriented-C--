@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1555441103 source:c:\users\a\desktop\oop\homework_1\project_3\main.cpp
+	<iostream>
+	<cctype>
+	"Store.h"
+
+1555437408 c:\users\a\desktop\oop\homework_1\project_3\store.h
+	"Product.h"
+
+1555440214 c:\users\a\desktop\oop\homework_1\project_3\product.h
+
+1555441205 source:c:\users\a\desktop\oop\homework_1\project_3\product.cpp
+	<iostream>
+	<cstring>
+	"Product.h"
+
+1555440191 source:c:\users\a\desktop\oop\homework_1\project_3\store.cpp
+	<iostream>
+	<cstring>
+	"Store.h"
+

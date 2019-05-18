@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1555444973 source:c:\users\a\desktop\oop\homework_1\project_2\dnsrecord.cpp
+	<iostream>
+	<cstring>
+	"DNSRecord.h"
+
+1555444975 c:\users\a\desktop\oop\homework_1\project_2\dnsrecord.h
+	<iostream>
+
+1555445115 source:c:\users\a\desktop\oop\homework_1\project_2\dnscache.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"DNSCache.h"
+
+1555439068 c:\users\a\desktop\oop\homework_1\project_2\dnscache.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"DNSRecord.h"
+
+1555444781 source:c:\users\a\desktop\oop\homework_1\project_2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"DNSCache.h"
+
